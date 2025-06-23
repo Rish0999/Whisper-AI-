@@ -44,12 +44,4 @@ Welcome to the Whisper AI Transcription App. This application allows you to tran
 
 ---
 
-## Example
-
-**Uploaded File:** `example.wav`  
-**Transcription Output:**  
-`"This is a sample transcription of the audio content."`
-
----
-
 *Thank you for using the Whisper AI Transcription App!*
