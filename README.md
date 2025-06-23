@@ -1,7 +1,7 @@
 # Whisper AI Transcription App
 
 Welcome to the Whisper AI Transcription App. This application allows you to transcribe audio files into text using OpenAI's Whisper model.
-
+This project was made by Rishit Mohan, Rhea Bhatia and Arin Pramod Singla.
 ---
 
 ## Features
